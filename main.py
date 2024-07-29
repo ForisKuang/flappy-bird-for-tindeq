@@ -5,7 +5,7 @@
 
 from tindeq_progressor.progressor_client import ProgressorClient
 
-class Client:
+class FlappyBirdClient:
 
     def __init__(self):
 
